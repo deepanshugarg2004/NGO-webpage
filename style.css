@@ -1,0 +1,37 @@
+.container-fluid{
+    background-color: rgb(229, 52, 21);
+    font-size:1.5rem;
+}
+.carousel-item{
+    height:526px;
+}
+.containerrow{
+    background-color: rgb(241, 15, 15);
+}
+footer{
+    box-sizing: border-box;
+    padding:30px;
+    display:flex;
+    direction:row;
+}
+.box{
+    width:400px;
+    margin-right:300px;
+}
+.flexbox{
+    height:400px;
+    display:flex;
+    direction:row;
+    justify-content:center;
+    gap:35px;
+
+}
+.b1{
+    height:350px;
+    border:2px solid red;
+    width:360px;
+}
+   pre>h1{
+    margin-top:20px;
+    background-color: rgb(229, 68, 14);
+   } 
